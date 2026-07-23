@@ -36,7 +36,7 @@ My career has spanned some of the most prestigious healthcare agencies in the **
 
 ### 🔹 Area 23 Health Communications (IPG Health) — New York
 
-**Senior Regulatory Operations Specialist** _(Freelance | Sep 2025 – Present)_
+**Senior Regulatory Operations Specialist** _(Freelance | Aug 2025 – Present)_
 
 Providing regulatory operations leadership and submission management support for multiple global pharmaceutical clients across promotional review, Veeva systems administration, and content compliance activities.
 
@@ -66,7 +66,7 @@ Providing regulatory operations leadership and submission management support for
 
 ### 🔹 McCann Health London
 
-**Medical Editor** _(Freelance | Jun 2024 – Dec 2025)_
+**Medical Editor** _(Freelance | Jun 2025 – Dec 2025)_
 
 Provided end-to-end regulatory operations and promotional review support across multiple pharmaceutical brands, ensuring compliance with global regulatory requirements and internal quality standards.
 
@@ -110,6 +110,14 @@ Oversaw Medical-Legal Regulatory (MLR) review processes for clients, enabling su
 **Associate Professional, Regulatory Publishing** _(Sep 2017 – Apr 2021)_
 
 Executed QC tasks within electronic publishing system for accurate published output. Supported senior submissions teams in maintenance of eCTD lifecycle. Achieved excellence in leading Document Level Publishing for Bristol Myers Squibb.
+
+---
+
+### 🔹 CARE Hospitals — Hyderabad, India
+
+**Pharmacist** _(2015 – 2016)_
+
+Implemented effective measures to ensure pharmacy maintains ample supply of lifesaving drugs. Interpreted written prescriptions, checked for drug interactions/allergies, and entered prescription/patient data into computer systems. Interpreted and processed medication orders under supervision of pharmacy director to ensure accurate and timely fulfilment.
 
 ---
 
