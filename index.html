@@ -829,7 +829,7 @@ background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/sv
         </div>
 
         <div class="reveal d2">
-          <form @submit="submitForm" novalidate>
+          <form @submit.prevent="submitForm">
             <div class="flex flex-col gap-4">
               <!-- Web3Forms Access Key & Honeypot -->
               <input type="hidden" name="access_key" value="6fca5d08-eb98-4dba-bc73-5e78fa33e64b">
@@ -909,12 +909,16 @@ function app() {
     isSubmitting: false,
 
     async submitForm(e) {
-      e.preventDefault();
+      const form = e.target;
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
       this.isSubmitting = true;
       this.resultMessage = 'Please wait...';
       this.resultType = 'loading';
       
-      const form = e.target;
       const formData = new FormData(form);
       const object = Object.fromEntries(formData);
       const json = JSON.stringify(object);
