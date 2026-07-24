@@ -93,7 +93,13 @@ Provided end-to-end regulatory operations and promotional review support across 
 
 **Senior Associate QC Specialist** _(Nov 2023 – Aug 2024)_
 
-Assessed validity of clinical/scientific content in preclinical and clinical documents. Provided independent source data verification of clinical study reports, verified numeric accuracy of all data cited throughout text, and developed factual evidence to support discrepant findings.
+- Assess validity of clinical/scientific content in preclinical and clinical documents and identify deficiencies prior to finalization and promotion in the document management system.
+- Provide independent source data verification of clinical or preclinical study reports and identify content inaccuracies, e.g.: Verify accuracy (100% review) of all factual statements within summary document text compared to post-text sources cited.
+- Verify numeric accuracy (100% review) of all data cited throughout text and hand derived in-text tables compared to post-text sources cited.
+- Verify appropriateness of all internal/external citations noted within summary document.
+- Develop and provide factual evidence to support all discrepant findings for review and approval by Submission Team or document authors.
+- Provide cross-divisional support through quality review of divisional specific documents such as CSRs, CERs, Tabular Listings, etc.
+- With oversight, provide clinical/scientific review of clinical summary documents, such as CERs, SCE, SCS and CO.
 
 ---
 
@@ -101,7 +107,15 @@ Assessed validity of clinical/scientific content in preclinical and clinical doc
 
 **Senior Regulatory Submission Specialist** _(Sep 2021 – Apr 2023)_
 
-Oversaw Medical-Legal Regulatory (MLR) review processes for clients, enabling successful planning and approval of 100+ pharmaceutical messaging. Developed strong expertise in Veeva Vault PromoMats and managed electronic review processes for clients' MLR committees.
+- Oversaw Medical-Legal Regulatory (MLR) review processes for clients, enabling successful planning and approval of over 100+ pharmaceutical messaging, involving document submission, retrieval, and distribution for review/revision.
+- Developed strong expertise in utilisation of Veeva Vault PromoMats submission software by effectively navigating associated processes for assigned accounts.
+- Managed the electronic review processes used by clients' MLR committees, including submission, retrieval, and distribution of documents for review and revision.
+- Created and maintains reference libraries and claim matrices on assigned accounts.
+- Understands key milestones in project delivery process and ensures required activity is met prior to moving onto the next milestone.
+- Executed meticulous file specification verification to ensure compliance with client and agency standards.
+- Streamlined submission processes by proficiently linking, tagging, annotating, and managing error-free submissions to facilitate prompt approval decisions.
+- Delivered timely status updates to promptly shared downloads and distributed reviewed submissions for effective collaborations.
+- Updated and maintained accurate and detailed compliance records.
 
 ---
 
@@ -109,7 +123,11 @@ Oversaw Medical-Legal Regulatory (MLR) review processes for clients, enabling su
 
 **Associate Professional, Regulatory Publishing** _(Sep 2017 – Apr 2021)_
 
-Executed QC tasks within electronic publishing system for accurate published output. Supported senior submissions teams in maintenance of eCTD lifecycle. Achieved excellence in leading Document Level Publishing for Bristol Myers Squibb.
+Executed QC tasks within electronic publishing system for accurate published output. Conducted QC reviews of documents prepared by team. Provided valuable support to senior submissions teams in maintenance of electronic Common Technical Document (eCTD) lifecycle. Provided support for lifecycle publishing project for assisting with tasks, such as formatting Word documents, creating bookmarks, hyperlinking, and conducting quality control (QC) checks. Assisted with internal process development, such as Bristol Myers Squibb Publishing Process in ISI Publisher and PRISM Automation Process.
+
+- Achieved excellence in leading high-performing Document Level Publishing for Bristol Myers Squibb and successfully published third-party documents from PRA Health Sciences, Charles River Laboratories, and others.
+- Utilised standard publishing systems and utilities, such as ISI Publisher v4.0.0200, ISIToolbox v6.3.0200, Adobe Acrobat, and Microsoft Word to effectively create and compile client deliverable documents/submissions.
+- Ensured accurate/consistent quality improvements in regulatory submissions contributing to enhanced business success.
 
 ---
 
@@ -117,7 +135,14 @@ Executed QC tasks within electronic publishing system for accurate published out
 
 **Pharmacist** _(2015 – 2016)_
 
-Implemented effective measures to ensure pharmacy maintains ample supply of lifesaving drugs. Interpreted written prescriptions, checked for drug interactions/allergies, and entered prescription/patient data into computer systems. Interpreted and processed medication orders under supervision of pharmacy director to ensure accurate and timely fulfilment.
+Implemented effective measures to ensure pharmacy maintains ample supply of lifesaving drugs and offers reasonable prices to meet needs of patients. Interpreted written prescriptions, checked for drug interactions/allergies, and entered prescription/patient data into computer systems. Interpreted and processed medication orders under supervision of pharmacy director to ensure accurate and timely fulfilment.
+
+- Provided effective training and guidance on pharmacy support technicians.
+- Reviewed physician orders to assess and ensure accuracy/safety prior to further processing.
+- Conducted thorough reviews and implemented enhancements to procurement, sales, and billing systems.
+- Maintaining prescription files and recording issue of narcotics, and habit-forming drugs including Schedule H and Schedule X.
+- Maintained accurate inventory of medications and offered information to assist patients in understanding how to properly take their prescribed medications.
+- Conferring with Chemists, Engineering Professionals and other healthcare professionals about manufacturing techniques and ingredients.
 
 ---
 
